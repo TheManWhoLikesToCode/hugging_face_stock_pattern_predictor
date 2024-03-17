@@ -154,31 +154,6 @@ def process_frames(numpy_array):
     return annotated_frame
 
 
-"""
-Function to process frames
-
-Arguments:
-    - Numpy array of frames
-
-Output:
-    - Numpy array of frames with the overlay
-
-"""
-
-
-# * Step 3: Display the overlay
-"""
-Function to display an overlay on the screen
-
-Arguments:
-    - Numpy array of frames with the overlay
-
-Output:
-    - None
-
-"""
-
-
 # * Step 4: Main Event Loop
 def main():
     """
